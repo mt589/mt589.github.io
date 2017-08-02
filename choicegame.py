@@ -1,4 +1,4 @@
-def startstory():
+ def startstory():
     gender= input ("Pick your player: Boy or Girl")
     if gender == "Girl" or gender == "girl":
         scenario = input ("Pick a scenerio: school or social")
